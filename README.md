@@ -10,7 +10,7 @@ I'm a fullstack developer at Parexel.
 📫 How to reach me:<br>
 😄 Pronouns:<br>
 ⚡ Fun fact:<br>
-<br>
+
 
 <br/>
 ## Social Media Links
