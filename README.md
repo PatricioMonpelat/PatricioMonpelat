@@ -3,14 +3,14 @@ I'm a fullstack developer at Parexel.
 
 ## About me
 🔭 I’m currently working on ... <br>
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on 
-🤔 I’m looking for help with
-💬 Ask me about
-📫 How to reach me:
-😄 Pronouns:
-⚡ Fun fact:
-
+🌱 I’m currently learning ...<br>
+👯 I’m looking to collaborate on <br>
+🤔 I’m looking for help with<br>
+💬 Ask me about<br>
+📫 How to reach me:<br>
+😄 Pronouns:<br>
+⚡ Fun fact:<br>
+<br>
 
 <br/>
 ## Social Media Links
