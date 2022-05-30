@@ -6,7 +6,7 @@ I'm a fullstack developer at Parexel.
 <a href="https://twitter.com/patomonpe">
 <img align="left" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://linkedin.patricio-monpelat.com">
+<a href="https://www.linkedin.com/in/patricio-monpelat-872172133/">
 <img align="left" alt="Patricio Monpelat LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.instagram.com/patomonpe">
