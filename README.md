@@ -2,11 +2,6 @@
 I'm a fullstack developer at Parexel.
 
 <br/>
-
-## Social Media Links
-
-<br/>
-
 <a href="https://twitter.com/patomonpe">
 <img align="left" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
