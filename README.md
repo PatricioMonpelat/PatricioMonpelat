@@ -1,19 +1,10 @@
 ## Hi World 👋 it's me [Patricio](https://patriciomonpelat.github.io/myResume/)
 I'm a fullstack developer at Parexel.
 
-## About me
-🔭 I’m currently working on ... <br>
-🌱 I’m currently learning ...<br>
-👯 I’m looking to collaborate on <br>
-🤔 I’m looking for help with<br>
-💬 Ask me about<br>
-📫 How to reach me:<br>
-😄 Pronouns:<br>
-⚡ Fun fact:<br>
-
-
 <br/>
+
 ## Social Media Links
+
 <br/>
 
 <a href="https://twitter.com/patomonpe">
@@ -35,6 +26,16 @@ I'm a fullstack developer at Parexel.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
+
+## About me
+🔭 I’m currently working on ... <br>
+🌱 I’m currently learning ...<br>
+👯 I’m looking to collaborate on <br>
+🤔 I’m looking for help with<br>
+💬 Ask me about<br>
+📫 How to reach me:<br>
+😄 Pronouns:<br>
+⚡ Fun fact:<br>
 
 <!--
 **PatricioMonpelat/PatricioMonpelat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
