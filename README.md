@@ -2,7 +2,7 @@
 I'm a fullstack developer at Parexel.
 
 ## About me
-🔭 I’m currently working on ...
+🔭 I’m currently working on ... <br>
 🌱 I’m currently learning ...
 👯 I’m looking to collaborate on 
 🤔 I’m looking for help with
