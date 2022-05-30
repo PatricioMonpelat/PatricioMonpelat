@@ -1,9 +1,10 @@
-### Hi world 👋 it's me [Patricio](https://patriciomonpelat.github.io/myResume/)
+### Hi World 👋 it's me [Patricio](https://patriciomonpelat.github.io/myResume/)
 
-I am fullstack developer working at Parexel.
-
+I'm a fullstack developer at Parexel.
+-🔭 I’m currently working on ...
 <br/>
-
+Here you can find me social media links..
+<br/>
 <a href="https://twitter.com/patomonpe">
 <img align="left" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
@@ -13,6 +14,17 @@ I am fullstack developer working at Parexel.
 <a href="https://www.instagram.com/patomonpe">
 <img align="left" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
+
+<br/>
+
+## Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+
+
 <!--
 **PatricioMonpelat/PatricioMonpelat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
