@@ -17,12 +17,9 @@ I'm a fullstack developer at Parexel.
 ## About me
 🔭 I’m currently working on ... <br>
 🌱 I’m currently learning ...<br>
-👯 I’m looking to collaborate on <br>
-🤔 I’m looking for help with<br>
 💬 Ask me about<br>
 📫 How to reach me:<br>
-😄 Pronouns:<br>
-⚡ Fun fact:<br>
+
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
