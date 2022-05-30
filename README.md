@@ -1,10 +1,21 @@
-### Hi World 👋 it's me [Patricio](https://patriciomonpelat.github.io/myResume/)
-
+## Hi World 👋 it's me [Patricio](https://patriciomonpelat.github.io/myResume/)
 I'm a fullstack developer at Parexel.
--🔭 I’m currently working on ...
+
+## About me
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+👯 I’m looking to collaborate on 
+🤔 I’m looking for help with
+💬 Ask me about
+📫 How to reach me:
+😄 Pronouns:
+⚡ Fun fact:
+
+
 <br/>
-Here you can find me social media links..
+## Social Media Links
 <br/>
+
 <a href="https://twitter.com/patomonpe">
 <img align="left" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
