@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi world 👋 it's me Patricio!
+
+I am fullstack developer working at Parexel.
 
 <!--
 **PatricioMonpelat/PatricioMonpelat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
