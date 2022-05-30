@@ -15,10 +15,10 @@ I'm a fullstack developer at Parexel.
 <br/>
 
 ## About me
-🔭 I’m currently working on ... <br>
-🌱 I’m currently learning ...<br>
+🔭 I’m currently working.. <br>
+🌱 I’m currently learning react br>
 💬 Ask me about<br>
-📫 How to reach me:<br>
+📫 How to reach me: ping me!<br>
 
 
 ## Languages and Tools
