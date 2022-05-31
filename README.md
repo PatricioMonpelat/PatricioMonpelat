@@ -14,7 +14,7 @@ I'm a fullstack developer at Parexel.
 <br/>
 
 ## About me
-🔭 I’m currently working on multiples projects for Parexel <br>
+🔭 I’m currently working on multiple angular projects for Parexel <br>
 🌱 I’m currently learning react <br>
 💬 Ask me about something <br>
 📫 How to reach me: ping me!<br>
