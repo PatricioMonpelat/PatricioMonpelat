@@ -1,5 +1,5 @@
 ## Hi There! 👋 It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/)
-I'm a fullstack developer at Parexel.
+I'm a fullstack developer at Parexel
 
 ## Social Media
 <a href="https://twitter.com/patomonpe">
