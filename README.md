@@ -12,7 +12,7 @@ I'm a fullstack developer at Ernst & Young
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 ## About me
-🔭 I’m currently working [@EY](https://www.ey.com/es_ar) <br>
+🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) <br>
 🌱 I’m currently learning [@React](https://reactjs.org/) <br>
 💬 Ask me about something <br>
 📫 How to reach me: ping me!<br>
