@@ -13,7 +13,7 @@ I'm a fullstack developer at Ernst & Young
 
 ## About me
 🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) <br>
-🌱 I’m currently learning [@React](https://reactjs.org/) <br>
+🌱 I’m currently learning [@GSAP](https://greensock.com) <br>
 💬 Ask me about something <br>
 📫 How to reach me: ping me!<br>
 
