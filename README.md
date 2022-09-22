@@ -4,9 +4,9 @@
 
 <details> 
  <summary><b>👨‍💻 About Me</b></summary>
-🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) <br>
+ </br>
+🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) as a full stack developer <br>
 🌱 I’m currently learning [@GSAP](https://greensock.com) <br>
-💬 Ask me about something <br>
 📫 How to reach me: ping me!<br>
  
 </Details>
