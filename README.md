@@ -74,29 +74,6 @@
 </div>
 <br/>
 
-<br>
-<div width="100%" align="center">
-<a align="center" href="https://github.com/paulabruck/ALGO3_Ejercicios" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=ALGO3_Ejercicios&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TDL_Ejercicios"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDL_Ejercicios&theme=radical&border_color=61dafb&border_radius=14"></a>
-</div>
-<br/>
-
-<br>
-<div width="100%" align="center">
-<a align="center" href="https://github.com/paulabruck/TP2_SALON_DE_LA_FAMA_RELOADED" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP2_SALON_DE_LA_FAMA_RELOADED&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TDA_HASH"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_HASH&theme=radical&border_color=61dafb&border_radius=14"></a>
-</div>
-<br/>
-
-<br>
-<div width="100%" align="center">
-<a align="center" href="https://github.com/paulabruck/TDA_ABB" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_ABB&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TDA_LISTA"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_LISTA&theme=radical&border_color=61dafb&border_radius=14"></a>
-</div>
-<br/>
-
-<br>
-<div width="100%" align="center">
-<a align="center" href="https://github.com/paulabruck/TP1_SALON_DE_LA_FAMA" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP1_SALON_DE_LA_FAMA&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TP1_Detector_personajes"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP1_Detector_personajes&theme=radical&border_color=61dafb&border_radius=14"></a>
-</div>
-<br/>
 
 </details>
 
