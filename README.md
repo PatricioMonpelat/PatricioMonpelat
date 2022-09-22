@@ -3,7 +3,7 @@
 
 
 <details> 
- <summary><b>About Me 👨‍💻</b></summary>
+ <summary><b>👨‍💻 About Me</b></summary>
 🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) <br>
 🌱 I’m currently learning [@GSAP](https://greensock.com) <br>
 💬 Ask me about something <br>
