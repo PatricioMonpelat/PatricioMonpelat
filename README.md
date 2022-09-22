@@ -21,22 +21,6 @@
 💬 Ask me about something <br>
 📫 How to reach me: ping me!<br>
 
-
-
-
-
-## Social Media
-<a href="https://twitter.com/patomonpe">
-<img align="left" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://www.linkedin.com/in/patricio-monpelat-872172133/">
-<img align="left" alt="Patricio Monpelat LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://www.instagram.com/patomonpe">
-<img align="left" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
-</a>
-<br/><br/><br/>
-
 ---
 
 <details>
@@ -58,7 +42,17 @@
 ---
 
 
-
+## Social Media
+<a href="https://twitter.com/patomonpe">
+<img align="left" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.linkedin.com/in/patricio-monpelat-872172133/">
+<img align="left" alt="Patricio Monpelat LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.instagram.com/patomonpe">
+<img align="left" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+</a>
+<br/><br/><br/>
 
 
 <!--
