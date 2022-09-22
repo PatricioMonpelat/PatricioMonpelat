@@ -52,8 +52,8 @@
 ---
 
 
-<details>
-<b>⚡Stats⚡</b>
+
+<summary><b>⚡Stats⚡</b></summary>
  
 
 <br/>
@@ -63,7 +63,7 @@
 <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=patriciomonpelat&theme=highcontrast&show_icons=true&count_private=true"/>
 
 
-</details>
+
 
 
 
