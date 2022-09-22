@@ -12,8 +12,8 @@
 </Details>
 
 <!-- ## Hi There! 👋 It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) -->
-## It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) this is my website.
-### I'm a full stack developer at Ernst & Young
+## This is my [Website](https://patriciomonpelat.github.io/myResume/) 
+<!-- ### I'm a full stack developer at Ernst & Young -->
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
