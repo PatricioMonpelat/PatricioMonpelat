@@ -42,11 +42,11 @@
 ---
 
 <p align="center">
-<a href="https://twitter.com/patomonpe"><img align="center" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" /></a>
+<a href="https://twitter.com/patomonpe"><img align="center" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=FFFFFF" /></a>
  </br>
-<a href="https://www.linkedin.com/in/patricio-monpelat-872172133/"><img align="center" alt="Patricio Monpelat LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" /></a>
+<a href="https://www.linkedin.com/in/patricio-monpelat-872172133/"><img align="center" alt="Patricio Monpelat LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=FFFFFF" /></a>
  </br>
-<a href="https://www.instagram.com/patomonpe"><img align="center" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=#FFFFFF" /></a>
+<a href="https://www.instagram.com/patomonpe"><img align="center" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=FFFFFF" /></a>
 </p>
 
 
