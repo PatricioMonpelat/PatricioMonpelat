@@ -61,7 +61,7 @@
   
 <p align="left">
 <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=patriciomonpelat&theme=highcontrast&show_icons=true&count_private=true"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciomonpelat&layout=compact&langs_count=8&theme=highcontrast&count-private=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciomonpelat&layout=compact&langs_count=8&theme=highcontrast&count-private=true"/>
 
 
 
