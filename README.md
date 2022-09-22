@@ -1,5 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Patricio's+Monpelat;github+profile..." alt="Typing SVG" /></a>
 ---  
+
+## About me
+🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) <br>
+🌱 I’m currently learning [@GSAP](https://greensock.com) <br>
+💬 Ask me about something <br>
+📫 How to reach me: ping me!<br>
+
+
 <!-- ## Hi There! 👋 It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) -->
 ## It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) this is my website.
 ### I'm a full stack developer at Ernst & Young
@@ -15,11 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-## About me
-🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) <br>
-🌱 I’m currently learning [@GSAP](https://greensock.com) <br>
-💬 Ask me about something <br>
-📫 How to reach me: ping me!<br>
+
 
 ---
 
