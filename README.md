@@ -38,6 +38,23 @@ I'm a full stack developer at Ernst & Young
 <br/>
 
 
+
+<details>
+<summary><b>⚡Stats⚡</b></summary>
+ 
+
+<br/>
+
+  
+<p align="left">
+
+
+
+</details>
+
+
+
+
 <!--
 **PatricioMonpelat/PatricioMonpelat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
