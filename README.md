@@ -1,10 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Patricio's+Monpelat;github+profile..." alt="Typing SVG" /></a>
-
 ---  
-
 <!-- ## Hi There! 👋 It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) -->
-### It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) 
-## I'm a full stack developer at Ernst & Young
+## It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) this is my website.
+### I'm a full stack developer at Ernst & Young
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
