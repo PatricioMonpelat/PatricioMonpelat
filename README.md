@@ -2,12 +2,14 @@
 ---  
 
 
-<About Me> ## About me
+<details> About me
+ 
 🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) <br>
 🌱 I’m currently learning [@GSAP](https://greensock.com) <br>
 💬 Ask me about something <br>
 📫 How to reach me: ping me!<br>
-</About Me>
+ 
+</Details>
 
 <!-- ## Hi There! 👋 It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) -->
 ## It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) this is my website.
