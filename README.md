@@ -39,15 +39,15 @@ I'm a full stack developer at Ernst & Young
 
 
 
-##---
+---
   
 <p align="center">
-<a href="https://gitstats.me/paulabruck"><img src="https://img.shields.io/badge/-paulabruck-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
+<a href="https://gitstats.me/paulabruck"><img src="https://img.shields.io/badge/-patriciomonpelat-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
 </a>
-<a href="mailto:paulabruck@gmail.com"><img src="https://img.shields.io/badge/-paulabruck@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:patricio.monpelat@gmail.com"><img src="https://img.shields.io/badge/-patricio.monpelat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-##---
+---
 
 
 <details>
