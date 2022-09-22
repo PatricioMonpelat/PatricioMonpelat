@@ -56,6 +56,54 @@
  
 ---
 
+<details>
+<summary><b>⚡FIUBA⚡</b></summary>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+
+
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/TDA_II_Redes_sociales" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_II_Redes_sociales&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/Organizacion_Del_Computador" title="TP Fiubados"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=Organizacion_Del_Computador&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
+
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/TDA_Teoria_De_Algoritmos_I" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_Teoria_De_Algoritmos_I&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TP_FIUBADOS" title="TP Fiubados"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP_FIUBADOS&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
+
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/ALGO3_Ejercicios" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=ALGO3_Ejercicios&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TDL_Ejercicios"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDL_Ejercicios&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
+
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/TP2_SALON_DE_LA_FAMA_RELOADED" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP2_SALON_DE_LA_FAMA_RELOADED&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TDA_HASH"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_HASH&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
+
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/TDA_ABB" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_ABB&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TDA_LISTA"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_LISTA&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
+
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/TP1_SALON_DE_LA_FAMA" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP1_SALON_DE_LA_FAMA&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TP1_Detector_personajes"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP1_Detector_personajes&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
+
+</details>
+
+
+
+---
+
 <p align="center">
 <a href="https://gitstats.me/patriciomonpelat"><img src="https://img.shields.io/badge/-patriciomonpelat-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
 </a>
@@ -69,6 +117,19 @@
 <a href="https://www.linkedin.com/in/patricio-monpelat-872172133/" ><img align="center" alt="Patricio Monpelat LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=FFFFFF" /></a>
 <a href="https://www.instagram.com/patomonpe"><img align="center" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=FFFFFF" /></a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
