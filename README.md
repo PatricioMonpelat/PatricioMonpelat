@@ -53,7 +53,7 @@
 
 
 <details>
-<summary><b>⚡Stats⚡</b></summary>
+<b>⚡Stats⚡</b>
  
 
 <br/>
