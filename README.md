@@ -44,7 +44,7 @@
 
 ---
 
-
+<details>
 <summary><b>⚡Stats⚡</b></summary>
  
 <br/>
@@ -53,10 +53,12 @@
 <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=patriciomonpelat&theme=highcontrast&show_icons=true&count_private=true"/>
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciomonpelat&layout=compact&langs_count=8&theme=highcontrast&count-private=true"/>
 
+ 
+ 
 ---
   
 <p align="center">
-<a href="https://gitstats.me/paulabruck"><img src="https://img.shields.io/badge/-patriciomonpelat-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
+<a href="https://gitstats.me/patriciomonpelat"><img src="https://img.shields.io/badge/-patriciomonpelat-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
 </a>
 <a href="mailto:patricio.monpelat@gmail.com"><img src="https://img.shields.io/badge/-patricio.monpelat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
