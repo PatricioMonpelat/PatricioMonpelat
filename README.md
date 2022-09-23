@@ -48,7 +48,7 @@
 ---
 
 
-<b>⚡Stats⚡</b>
+<b>⚡Github Stats⚡</b>
 <br/>
 <p align="left">
 <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=patriciomonpelat&theme=highcontrast&show_icons=true&count_private=true"/>
@@ -84,8 +84,8 @@
 
 <p align="center">
 <a href="https://gitstats.me/patriciomonpelat"><img src="https://img.shields.io/badge/-patriciomonpelat-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
-</a>
 <a href="mailto:patricio.monpelat@gmail.com"><img src="https://img.shields.io/badge/-patricio.monpelat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/patomonpe"><img src="https://img.shields.io/badge/-patriciomonpelat-blue?style=flat&labelColor=blue&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -93,7 +93,6 @@
 <p align="center">
 <a href="https://twitter.com/patomonpe"><img align="center" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=FFFFFF" /></a>
 <a href="https://www.linkedin.com/in/patricio-monpelat-872172133/" ><img align="center" alt="Patricio Monpelat LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=FFFFFF" /></a>
-<a href="https://www.instagram.com/patomonpe"><img align="center" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=FFFFFF" /></a>
 </p>
 
 
