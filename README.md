@@ -71,7 +71,7 @@
 
 <br>
 <div width="100%" align="center">
-<a align="center" href="https://github.com/PatricioMonpelat/React-Shop-Food" title="React-Shop-Food"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PatricioMonpelat&repo=React-Shop-Food&theme=highcontrast&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/PatricioMonpelat/React-Shop-Food" title="React-Shop-Food"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PatricioMonpelat&repo=React-Shop-Food&theme=highcontrast&border_color=61dafb&border_radius=14"></a>
+<a align="center" href="https://github.com/PatricioMonpelat/myResume" title="myResume"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PatricioMonpelat&repo=myResume&theme=highcontrast&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/PatricioMonpelat/React-Shop-Food" title="React-Shop-Food"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PatricioMonpelat&repo=React-Shop-Food&theme=highcontrast&border_color=61dafb&border_radius=14"></a>
 </div>
 <br/>
 
