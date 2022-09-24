@@ -83,7 +83,7 @@
 <p align="center">
 <a href="https://gitstats.me/patriciomonpelat"><img src="https://img.shields.io/badge/-patriciomonpelat-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
 <a href="mailto:patricio.monpelat@gmail.com"><img src="https://img.shields.io/badge/-patricio.monpelat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/patomonpe"><img src="https://img.shields.io/badge/-patriciomonpelat-blue?style=flat&labelColor=blue&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/patricio-monpelat-872172133"><img src="https://img.shields.io/badge/-patriciomonpelat-blue?style=flat&labelColor=blue&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
