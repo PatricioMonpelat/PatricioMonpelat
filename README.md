@@ -90,7 +90,7 @@
 
 <p align="center">
 <a href="https://twitter.com/patomonpe"><img align="center" alt="Patricio Monpelat Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=FFFFFF" /></a>
-<a href="https://www.instagram.com/patomonpe"><img align="center" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=FFFFFF" /></a>
+<a href="https://www.instagram.com/patomonpe" target="_blank"><img align="center" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=FFFFFF" /></a>
 </p>
 
 
