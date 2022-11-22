@@ -21,9 +21,6 @@
  
 </Details>
 
-<!-- ## Hi There! 👋 It's Me! [Patricio](https://patriciomonpelat.github.io/myResume/) -->
-<!-- ## This is my [Website](https://patriciomonpelat.github.io/myResume/)  -->
-<!-- ### I'm a full stack developer at Ernst & Young -->
 
 ---
 
@@ -101,7 +98,7 @@
 <a href="https://www.instagram.com/patomonpe" target="_blank"><img align="center" alt="Patricio Monpelat Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=FFFFFF" /></a>
 </p>
 
-
+---
 
 <p align="center"> 
   Visitor count<br>
