@@ -102,6 +102,7 @@
 
 <p align="center"> 
   Visitor count<br>
+ <br>
   <img src="https://profile-counter.glitch.me/PatricioMonpelat/count.svg" />
 </p>
 
