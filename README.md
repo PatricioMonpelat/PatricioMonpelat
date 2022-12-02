@@ -1,3 +1,11 @@
+<p align="center"> 
+  Visitors Counter<br>
+ <br>
+  <img src="https://profile-counter.glitch.me/PatricioMonpelat/count.svg" />
+</p>
+
+---  
+
 <img align="left" src="https://github.com/PatricioMonpelat/PatricioMonpelat/blob/main/giphy.gif" alt="Coder" width="350" height="250"/>
 <br/><br/>
 <a href="https://git.io/typing-svg">
@@ -100,11 +108,6 @@
 
 ---
 
-<p align="center"> 
-  Visitor count<br>
- <br>
-  <img src="https://profile-counter.glitch.me/PatricioMonpelat/count.svg" />
-</p>
 
 
 
