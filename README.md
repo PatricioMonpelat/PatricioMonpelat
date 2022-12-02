@@ -54,8 +54,8 @@
 <b>⚡Github Stats⚡</b>
 <br/>
 <p align="left">
-<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=patriciomonpelat&theme=highcontrast&show_icons=true&count_private=true"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciomonpelat&layout=compact&langs_count=8&theme=highcontrast&count-private=true"/>
+<img  width="50%" height="300px" src="https://github-readme-stats.vercel.app/api?username=patriciomonpelat&theme=highcontrast&show_icons=true&count_private=true"/>
+<img width="45%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciomonpelat&layout=compact&langs_count=8&theme=highcontrast&count-private=true"/>
 
  
 ---
@@ -64,16 +64,13 @@
 <summary><b>👨‍💻 Repositories 👨‍💻</b></summary>
 <h2 align="center">Welcome</h2>
 
-
-
-
 <div width="100%" align="center">
-<a align="center" href="https://github.com/PatricioMonpelat/Angular-RecipeBook" title="RecipeBook">
- <img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PatricioMonpelat&repo=Angular-RecipeBook&theme=highcontrast&border_color=61dafb&border_radius=14"/>
- </a>
- <a align="center" href="https://github.com/PatricioMonpelat/react-nft" title="react-nft">
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PatricioMonpelat&repo=react-nft&theme=highcontrast&border_color=61dafb&border_radius=14"/>
- </a>
+  <a align="center" href="https://github.com/PatricioMonpelat/Angular-RecipeBook" title="RecipeBook">
+   <img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PatricioMonpelat&repo=Angular-RecipeBook&theme=highcontrast&border_color=61dafb&border_radius=14"/>
+   </a>
+   <a align="center" href="https://github.com/PatricioMonpelat/react-nft" title="react-nft">
+    <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PatricioMonpelat&repo=react-nft&theme=highcontrast&border_color=61dafb&border_radius=14"/>
+   </a>
 </div>
 
 <br>
