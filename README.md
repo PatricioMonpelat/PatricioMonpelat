@@ -62,8 +62,11 @@
 <code><img alt="vsc" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-visual-studio-code-2019-48_cbwjnx.png"/></code> 
 </br>
 </br>
+<code><img alt="rust" height="40" src="https://brandslogos.com/wp-content/uploads/images/rust-logo.png"/></code> 
 <code><img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code> 
 <code><img alt="css3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code> 
+
+
 
 <!-- Comments -->
 <!-- add more images inside the code tags -->
