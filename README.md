@@ -54,7 +54,7 @@
 <code><img alt="postgresql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></code>
 <code><img alt="postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </code>
 <code><img alt="tailwind" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> </code>
-<code><img alt="typescript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> </code>
+<code><img alt="nestjs" height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /> </code>
 <code><img alt="dotnetcore" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-.net-framework-48_uqzbay.png"/></code> 
 <code><img alt="vs" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-estudio-visual-48_ay8k60.png"/></code>
 <code><img alt="vsc" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-visual-studio-code-2019-48_cbwjnx.png"/></code> 
