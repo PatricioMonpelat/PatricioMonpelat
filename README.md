@@ -60,10 +60,6 @@
 <code><img alt="dotnetcore" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-.net-framework-48_uqzbay.png"/></code> 
 <code><img alt="vs" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-estudio-visual-48_ay8k60.png"/></code>
 <code><img alt="vsc" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-visual-studio-code-2019-48_cbwjnx.png"/></code> 
-
-
-
-
 </br>
 </br>
 <code><img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code> 
