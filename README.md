@@ -53,7 +53,7 @@
 <code><img alt="docker" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
 <code><img alt="postgresql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></code>
 <code><img alt="postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </code>
-<code><img alt="nextjs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png"/></code>
+<code><img alt="nextjs" height="40" src="https://pbs.twimg.com/media/FcNgsRWakAAnsht?format=png&name=4096x4096"/></code>
 <code><img alt="tailwind" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> </code>
 <code><img alt="expressjs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/></code> 
 <code><img alt="nestjs" height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /> </code>
@@ -65,7 +65,7 @@
 <code><img alt="framer motion" height="40" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png"/></code> 
 <code><img alt="sanity" height="40" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4"/></code> 
 <code><img alt="vercel" height="40" src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg"/></code>
-<code><img alt="rust" height="40" src="https://brandslogos.com/wp-content/uploads/images/rust-logo.png"/></code> 
+<code><img alt="rust" height="40" src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png"/></code> 
 <code><img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code> 
 <code><img alt="css3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code> 
 
