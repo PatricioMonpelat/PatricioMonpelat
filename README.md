@@ -64,9 +64,12 @@
 </br>
 <code><img alt="framer motion" height="40" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png"/></code> 
 <code><img alt="sanity" height="40" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4"/></code> 
+<code><img alt="vercel" height="40" src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg"/></code>
 <code><img alt="rust" height="40" src="https://brandslogos.com/wp-content/uploads/images/rust-logo.png"/></code> 
 <code><img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code> 
 <code><img alt="css3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code> 
+
+
 
 
 
