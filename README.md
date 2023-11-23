@@ -66,11 +66,13 @@
 <br>
 <br>
 ##### Other:<br>
+<code><img alt="azure" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"/></code> 
 <code><img alt="vscode" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-visual-studio-code-2019-48_cbwjnx.png"/></code> 
 <code><img alt="vs" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-estudio-visual-48_ay8k60.png"/></code>
 <code><img alt="framermotion" height="40" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png"/></code>
 <code><img alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code>
 <code><img alt="sanity" height="40" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4"/></code> 
+<code><img alt="aws" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/></code> 
 <code><img alt="vercel" height="40" src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg"/></code>
 
 
