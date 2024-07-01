@@ -55,7 +55,7 @@
 <code><img alt="postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </code>
 <code><img alt="expressjs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/></code> 
 <code><img alt="nestjs" height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /> </code>
-<code><img alt="dotnetcore" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-.net-framework-48_uqzbay.png"/></code> 
+<!-- <code><img alt="dotnetcore" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-.net-framework-48_uqzbay.png"/></code>  -->
 <code><img alt="rust" height="40" src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png"/></code> 
 <br>
 <br>
@@ -68,8 +68,8 @@
 <br>
 ##### Other:<br>
 <code><img alt="azure" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"/></code> 
-<code><img alt="vscode" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-visual-studio-code-2019-48_cbwjnx.png"/></code> 
-<code><img alt="vs" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-estudio-visual-48_ay8k60.png"/></code>
+<!-- <code><img alt="vscode" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-visual-studio-code-2019-48_cbwjnx.png"/></code> -->
+<!-- <code><img alt="vs" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-estudio-visual-48_ay8k60.png"/></code> -->
 <code><img alt="framermotion" height="40" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png"/></code>
 <code><img alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code>
 <code><img alt="sanity" height="40" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4"/></code> 
