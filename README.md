@@ -23,11 +23,11 @@
  </br>
  
 🔭 I’m currently working at [@EY](https://www.ey.com/es_ar) as a full stack developer <br>
+📫 How to reach me: ping me!<br>
+💅 This is my [Website](https://monpelat.dev)
 <!--
 🌱 I’m currently learning [@GSAP](https://greensock.com) <br>
 -->
-📫 How to reach me: ping me!<br>
-💅 This is my [Website](https://monpelat.dev)
  
 </Details>
 
