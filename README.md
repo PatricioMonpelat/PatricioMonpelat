@@ -1,4 +1,4 @@
-8<p align="center"> 
+<p align="center"> 
   Visitors Counter<br>
  <br>
   <img src="https://profile-counter.glitch.me/PatricioMonpelat/count.svg" />
