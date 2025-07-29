@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ---  
   <a href="https://git.io/typing-svg">
-    <br/><br/>
   <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Patricio's+Monpelat;github+profile..." with="350" alt="Typing SVG"/>
   </a>
 
