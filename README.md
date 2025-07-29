@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You’re as passionate about professional growth as you are about personal well-being, which shows a remarkable balance!
 -->
 
-<p align="center"> 
-  Visitors Counter<br>
- <br>
-  <img src="https://profile-counter.glitch.me/PatricioMonpelat/count.svg" />
-</p>
 
 ---  
 
