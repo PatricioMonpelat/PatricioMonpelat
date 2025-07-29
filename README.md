@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ---  
 
-<img align="left" src="https://github.com/PatricioMonpelat/PatricioMonpelat/blob/main/giphy.gif" alt="Coder" width="350" height="250"/>
-<br/><br/>
+
 
   <a href="https://git.io/typing-svg">
     <br/><br/>
