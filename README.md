@@ -99,14 +99,6 @@ Here are some ideas to get you started:
 
 
 
-<div width="100%" align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=PatricioMonpelat&theme=Javascript-dark&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
-
----
-
 <!-- QUOTE_START -->
 > **Frase del dia:** _Throw your heart over the bar and your body will follow._ - **Norman Vincent Peale**
 <!-- QUOTE_END -->
