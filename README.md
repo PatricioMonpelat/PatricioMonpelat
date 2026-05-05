@@ -108,11 +108,11 @@ Here are some ideas to get you started:
 ---
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat._ - **Sun Tzu**
+> **Frase del dia:** _Throw your heart over the bar and your body will follow._ - **Norman Vincent Peale**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 04/05/2026 10:56 (UTC-3)
+Ultima actualizacion: 05/05/2026 10:51 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
