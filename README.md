@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _If what you're doing is not your passion, you have nothing to lose._ - **Celestine Chua**
+> **Frase del dia:** _It's the possibility of having a dream come true that makes life interesting._ - **Paulo Coelho**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 06/05/2026 11:06 (UTC-3)
+Ultima actualizacion: 07/05/2026 11:03 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
