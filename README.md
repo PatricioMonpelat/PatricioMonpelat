@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _It's the possibility of having a dream come true that makes life interesting._ - **Paulo Coelho**
+> **Frase del dia:** _20 percent of your activities will account for 80 percent of your results._ - **Brian Tracy**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 07/05/2026 11:03 (UTC-3)
+Ultima actualizacion: 08/05/2026 10:29 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
