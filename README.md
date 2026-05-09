@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _20 percent of your activities will account for 80 percent of your results._ - **Brian Tracy**
+> **Frase del dia:** _People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily._ - **Zig Ziglar**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 08/05/2026 10:29 (UTC-3)
+Ultima actualizacion: 09/05/2026 10:14 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
