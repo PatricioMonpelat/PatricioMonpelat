@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily._ - **Zig Ziglar**
+> **Frase del dia:** _The majority of what you want will come from the minority of what you do._ - **Gary Keller**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 09/05/2026 10:14 (UTC-3)
+Ultima actualizacion: 10/05/2026 10:14 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
