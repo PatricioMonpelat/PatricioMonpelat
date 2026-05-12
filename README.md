@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _We don't stop playing because we grow old; we grow old because we stop playing._ - **George Bernard Shaw**
+> **Frase del dia:** _Genius is one percent inspiration and ninety-nine percent perspiration._ - **Thomas Edison**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 11/05/2026 11:46 (UTC-3)
+Ultima actualizacion: 12/05/2026 11:21 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
