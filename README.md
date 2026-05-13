@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Genius is one percent inspiration and ninety-nine percent perspiration._ - **Thomas Edison**
+> **Frase del dia:** _There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose._ - **Elbert Hubbard**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 12/05/2026 11:21 (UTC-3)
+Ultima actualizacion: 13/05/2026 11:29 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
