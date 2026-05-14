@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose._ - **Elbert Hubbard**
+> **Frase del dia:** _A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing._ - **George Bernard Shaw**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 13/05/2026 11:29 (UTC-3)
+Ultima actualizacion: 14/05/2026 11:07 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
