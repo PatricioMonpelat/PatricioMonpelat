@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing._ - **George Bernard Shaw**
+> **Frase del dia:** _Thinking is difficult, that's why most people judge._ - **Carl Jung**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 14/05/2026 11:07 (UTC-3)
+Ultima actualizacion: 15/05/2026 11:03 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
