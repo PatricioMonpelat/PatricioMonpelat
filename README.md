@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The world is a puzzle; no need to make sense out of it._ - **Socrates**
+> **Frase del dia:** _Growth is in a series of mistakes. That's the only way you learn._ - **Steve Harvey**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 16/05/2026 10:18 (UTC-3)
+Ultima actualizacion: 17/05/2026 10:16 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
