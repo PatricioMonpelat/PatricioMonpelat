@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Growth is in a series of mistakes. That's the only way you learn._ - **Steve Harvey**
+> **Frase del dia:** _If you put water into a cup, it becomes the cup._ - **Bruce Lee**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 17/05/2026 10:16 (UTC-3)
+Ultima actualizacion: 18/05/2026 12:28 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
