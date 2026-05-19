@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _If you put water into a cup, it becomes the cup._ - **Bruce Lee**
+> **Frase del dia:** _Everything you've ever wanted is on the other side of fear._ - **Brian Tracy**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 18/05/2026 12:28 (UTC-3)
+Ultima actualizacion: 19/05/2026 11:57 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
