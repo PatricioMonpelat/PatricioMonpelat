@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Blessed is he who expects nothing, for he shall be disappointed._ - **Jonathan Swift**
+> **Frase del dia:** _A zen master's life is one continuous mistake._ - **Dogen**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 20/05/2026 11:59 (UTC-3)
+Ultima actualizacion: 21/05/2026 12:20 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
