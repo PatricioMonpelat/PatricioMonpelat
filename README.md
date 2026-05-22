@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _A zen master's life is one continuous mistake._ - **Dogen**
+> **Frase del dia:** _Life is like a wheel. Sooner or later, it always comes around to where you started again._ - **Stephen King**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 21/05/2026 12:20 (UTC-3)
+Ultima actualizacion: 22/05/2026 11:35 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
