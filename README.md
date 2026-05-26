@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less._ - **Dan Millman**
+> **Frase del dia:** _Learn only how to avoid seeking for and attaching yourselves to anything._ - **Huang Po**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 25/05/2026 11:50 (UTC-3)
+Ultima actualizacion: 26/05/2026 12:21 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
