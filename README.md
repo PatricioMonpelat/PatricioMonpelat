@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Learn only how to avoid seeking for and attaching yourselves to anything._ - **Huang Po**
+> **Frase del dia:** _Being wrong opens us up to the possibility of change._ - **Mark Manson**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 26/05/2026 12:21 (UTC-3)
+Ultima actualizacion: 27/05/2026 12:36 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
