@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You just can't beat the person who never gives up._ - **Babe Ruth**
+> **Frase del dia:** _Do something to move yourself toward your major goal every day._ - **Brian Tracy**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 28/05/2026 12:48 (UTC-3)
+Ultima actualizacion: 29/05/2026 12:22 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
