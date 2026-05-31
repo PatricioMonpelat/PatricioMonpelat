@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work._ - **John Eliot**
+> **Frase del dia:** _In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better._ - **Spencer Johnson**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 30/05/2026 10:25 (UTC-3)
+Ultima actualizacion: 31/05/2026 10:41 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
