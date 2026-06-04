@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You are always your own best guru, your own best teacher, the answers are always inside you._ - **Sathya Sai Baba**
+> **Frase del dia:** _Expect the best of yourself, and then do what is necessary to make it a reality._ - **Ralph Marston**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 03/06/2026 13:44 (UTC-3)
+Ultima actualizacion: 04/06/2026 11:55 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
