@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Expect the best of yourself, and then do what is necessary to make it a reality._ - **Ralph Marston**
+> **Frase del dia:** _One of the most difficult things is not to change society - but to change yourself._ - **Nelson Mandela**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 04/06/2026 11:55 (UTC-3)
+Ultima actualizacion: 05/06/2026 11:46 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
