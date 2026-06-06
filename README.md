@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _One of the most difficult things is not to change society - but to change yourself._ - **Nelson Mandela**
+> **Frase del dia:** _The man who asks a question is a fool for a minute, the man who does not ask is a fool for life._ - **Confucius**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 05/06/2026 11:46 (UTC-3)
+Ultima actualizacion: 06/06/2026 10:28 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
