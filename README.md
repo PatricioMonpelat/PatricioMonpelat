@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The man who asks a question is a fool for a minute, the man who does not ask is a fool for life._ - **Confucius**
+> **Frase del dia:** _A lot of people have gone further than they thought they could because someone else thought they could._ - **Zig Ziglar**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 06/06/2026 10:28 (UTC-3)
+Ultima actualizacion: 07/06/2026 10:48 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
