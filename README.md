@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _A lot of people have gone further than they thought they could because someone else thought they could._ - **Zig Ziglar**
+> **Frase del dia:** _I like the dreams of the future better than the history of the past._ - **Thomas Jefferson**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 07/06/2026 10:48 (UTC-3)
+Ultima actualizacion: 08/06/2026 12:47 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
