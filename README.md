@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Given the choice between the experience of pain and nothing, I would choose pain._ - **William Faulkner**
+> **Frase del dia:** _Short cuts make long delays._ - **J.R.R. Tolkien**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 09/06/2026 11:46 (UTC-3)
+Ultima actualizacion: 10/06/2026 12:30 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
