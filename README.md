@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Short cuts make long delays._ - **J.R.R. Tolkien**
+> **Frase del dia:** _Every man desires to live long, but no man wishes to be old._ - **Jonathan Swift**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 10/06/2026 12:30 (UTC-3)
+Ultima actualizacion: 11/06/2026 12:57 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
