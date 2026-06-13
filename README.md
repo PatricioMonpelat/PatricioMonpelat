@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The future depends on what you do today._ - **Mahatma Gandhi**
+> **Frase del dia:** _You can't build a reputation on what you are going to do._ - **Henry Ford**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 12/06/2026 11:54 (UTC-3)
+Ultima actualizacion: 13/06/2026 10:55 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
