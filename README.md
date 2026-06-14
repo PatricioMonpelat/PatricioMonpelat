@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You can't build a reputation on what you are going to do._ - **Henry Ford**
+> **Frase del dia:** _Anger begins with folly, and ends with repentance._ - **Beverly Sills**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 13/06/2026 10:55 (UTC-3)
+Ultima actualizacion: 14/06/2026 10:58 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
