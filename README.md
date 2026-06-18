@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Never whine, never complain, never try to justify yourself._ - **Robert Greene**
+> **Frase del dia:** _But better die than live mechanically a life that is a repetition of repetitions._ - **D. H. Lawrence**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 17/06/2026 12:22 (UTC-3)
+Ultima actualizacion: 18/06/2026 12:19 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
