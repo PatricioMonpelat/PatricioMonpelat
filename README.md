@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _But better die than live mechanically a life that is a repetition of repetitions._ - **D. H. Lawrence**
+> **Frase del dia:** _All we have to decide is what to do with the time that is given to us._ - **J.R.R. Tolkien**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 18/06/2026 12:19 (UTC-3)
+Ultima actualizacion: 19/06/2026 12:10 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
