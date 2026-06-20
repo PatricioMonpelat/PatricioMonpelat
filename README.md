@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _All we have to decide is what to do with the time that is given to us._ - **J.R.R. Tolkien**
+> **Frase del dia:** _Let us rather run the risk of wearing out than rusting out._ - **Theodore Roosevelt**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 19/06/2026 12:10 (UTC-3)
+Ultima actualizacion: 20/06/2026 10:58 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
