@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Let us rather run the risk of wearing out than rusting out._ - **Theodore Roosevelt**
+> **Frase del dia:** _Only when you can be extremely pliable and soft can you be extremely hard and strong._ - **Zen Proverb**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 20/06/2026 10:58 (UTC-3)
+Ultima actualizacion: 21/06/2026 11:06 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
