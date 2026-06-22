@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Only when you can be extremely pliable and soft can you be extremely hard and strong._ - **Zen Proverb**
+> **Frase del dia:** _Argue for your limitations and sure enough, they're yours._ - **Richard Bach**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 21/06/2026 11:06 (UTC-3)
+Ultima actualizacion: 22/06/2026 13:52 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
