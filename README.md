@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Argue for your limitations and sure enough, they're yours._ - **Richard Bach**
+> **Frase del dia:** _You may be one person in this world, but to one person you may mean the world._ - **Unknown**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 22/06/2026 13:52 (UTC-3)
+Ultima actualizacion: 23/06/2026 11:43 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
