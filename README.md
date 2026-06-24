@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You may be one person in this world, but to one person you may mean the world._ - **Unknown**
+> **Frase del dia:** _You're on earth. There's no cure for that._ - **Samuel Beckett**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 23/06/2026 11:43 (UTC-3)
+Ultima actualizacion: 24/06/2026 11:25 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
