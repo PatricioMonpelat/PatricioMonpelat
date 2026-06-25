@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You're on earth. There's no cure for that._ - **Samuel Beckett**
+> **Frase del dia:** _The best fighter is never angry._ - **Lao Tzu**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 24/06/2026 11:25 (UTC-3)
+Ultima actualizacion: 25/06/2026 11:28 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
