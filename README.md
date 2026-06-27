@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _It is dangerous to be right in matters on which the established authorities are wrong._ - **Voltaire**
+> **Frase del dia:** _Do Something. If it works, do more of it. If it doesn't, do something else._ - **Franklin D. Roosevelt**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 26/06/2026 11:20 (UTC-3)
+Ultima actualizacion: 27/06/2026 10:28 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
