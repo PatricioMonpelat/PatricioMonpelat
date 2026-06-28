@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Do Something. If it works, do more of it. If it doesn't, do something else._ - **Franklin D. Roosevelt**
+> **Frase del dia:** _Truth is the offspring of silence and meditation._ - **Isaac Newton**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 27/06/2026 10:28 (UTC-3)
+Ultima actualizacion: 28/06/2026 10:42 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
