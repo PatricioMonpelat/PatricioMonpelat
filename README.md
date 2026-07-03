@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _No one ever said life was fair. Just Eventful._ - **Carol Burnett**
+> **Frase del dia:** _Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories._ - **Ray Bradbury**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 02/07/2026 10:54 (UTC-3)
+Ultima actualizacion: 03/07/2026 10:58 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
