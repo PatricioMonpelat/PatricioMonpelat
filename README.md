@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _No se pudo obtener la frase hoy._
+> **Frase del dia:** _Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny._ - **Steve Maraboli**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 07/07/2026 11:28 (UTC-3)
+Ultima actualizacion: 08/07/2026 10:59 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
