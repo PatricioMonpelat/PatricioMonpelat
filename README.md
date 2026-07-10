@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _When you've got nothing, you've got nothing to lose._ - **Bob Dylan**
+> **Frase del dia:** _When something comes from within, when it is a part of you, you have no choice but to live it, to express it._ - **Kamal Ravikant**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 09/07/2026 11:54 (UTC-3)
+Ultima actualizacion: 10/07/2026 11:21 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
