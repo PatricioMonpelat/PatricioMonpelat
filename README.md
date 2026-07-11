@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _When something comes from within, when it is a part of you, you have no choice but to live it, to express it._ - **Kamal Ravikant**
+> **Frase del dia:** _Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories._ - **Ray Bradbury**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 10/07/2026 11:21 (UTC-3)
+Ultima actualizacion: 11/07/2026 10:13 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
