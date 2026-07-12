@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories._ - **Ray Bradbury**
+> **Frase del dia:** _Success is a consequence and must not be a goal._ - **Gustave Flaubert**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 11/07/2026 10:13 (UTC-3)
+Ultima actualizacion: 12/07/2026 10:14 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
