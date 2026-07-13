@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Success is a consequence and must not be a goal._ - **Gustave Flaubert**
+> **Frase del dia:** _Words, once they are printed, have a life of their own._ - **Carol Burnett**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 12/07/2026 10:14 (UTC-3)
+Ultima actualizacion: 13/07/2026 11:28 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
