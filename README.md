@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _There's no next time. It's now or never._ - **Celestine Chua**
+> **Frase del dia:** _Knowing others is wisdom, knowing yourself is enlightenment._ - **Lao Tzu**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 15/07/2026 10:39 (UTC-3)
+Ultima actualizacion: 16/07/2026 10:45 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
