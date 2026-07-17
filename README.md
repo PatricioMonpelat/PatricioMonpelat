@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Knowing others is wisdom, knowing yourself is enlightenment._ - **Lao Tzu**
+> **Frase del dia:** _Death and life have their determined appointments; riches and honors depend upon heaven._ - **Confucius**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 16/07/2026 10:45 (UTC-3)
+Ultima actualizacion: 17/07/2026 10:23 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
