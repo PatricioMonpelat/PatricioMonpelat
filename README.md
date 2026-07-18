@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Death and life have their determined appointments; riches and honors depend upon heaven._ - **Confucius**
+> **Frase del dia:** _Would you rather live your life according to the approval of others or aligned with your truth and your dreams?_ - **Robin Sharma**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 17/07/2026 10:23 (UTC-3)
+Ultima actualizacion: 18/07/2026 10:09 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
