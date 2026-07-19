@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Would you rather live your life according to the approval of others or aligned with your truth and your dreams?_ - **Robin Sharma**
+> **Frase del dia:** _The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution._ - **Albus Dumbledore**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 18/07/2026 10:09 (UTC-3)
+Ultima actualizacion: 19/07/2026 10:13 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
