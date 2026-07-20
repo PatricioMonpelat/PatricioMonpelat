@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution._ - **Albus Dumbledore**
+> **Frase del dia:** _An action committed in anger is an action doomed to failure._ - **Genghis Khan**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 19/07/2026 10:13 (UTC-3)
+Ultima actualizacion: 20/07/2026 11:00 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
