@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _An action committed in anger is an action doomed to failure._ - **Genghis Khan**
+> **Frase del dia:** _Do Something. If it works, do more of it. If it doesn't, do something else._ - **Franklin D. Roosevelt**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 20/07/2026 11:00 (UTC-3)
+Ultima actualizacion: 21/07/2026 10:44 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
