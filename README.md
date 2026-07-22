@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Do Something. If it works, do more of it. If it doesn't, do something else._ - **Franklin D. Roosevelt**
+> **Frase del dia:** _Nothing makes a man broad-minded like adversity._ - **Will Rogers**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 21/07/2026 10:44 (UTC-3)
+Ultima actualizacion: 22/07/2026 10:46 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
