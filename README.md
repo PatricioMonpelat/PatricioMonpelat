@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You have the potential for greatness._ - **Steve Harvey**
+> **Frase del dia:** _Change is hard at first, messy in the middle and gorgeous at the end._ - **Robin Sharma**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 23/07/2026 10:51 (UTC-3)
+Ultima actualizacion: 24/07/2026 10:39 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
