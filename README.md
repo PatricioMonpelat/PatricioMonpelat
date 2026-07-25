@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Change is hard at first, messy in the middle and gorgeous at the end._ - **Robin Sharma**
+> **Frase del dia:** _It is amazing what you can accomplish if you do not care who gets the credit._ - **Harry S. Truman**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 24/07/2026 10:39 (UTC-3)
+Ultima actualizacion: 25/07/2026 10:20 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
