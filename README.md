@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _It is amazing what you can accomplish if you do not care who gets the credit._ - **Harry S. Truman**
+> **Frase del dia:** _Let us rather run the risk of wearing out than rusting out._ - **Theodore Roosevelt**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 25/07/2026 10:20 (UTC-3)
+Ultima actualizacion: 26/07/2026 10:15 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
