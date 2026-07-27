@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Let us rather run the risk of wearing out than rusting out._ - **Theodore Roosevelt**
+> **Frase del dia:** _But better die than live mechanically a life that is a repetition of repetitions._ - **D. H. Lawrence**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 26/07/2026 10:15 (UTC-3)
+Ultima actualizacion: 27/07/2026 11:28 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
