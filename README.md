@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _But better die than live mechanically a life that is a repetition of repetitions._ - **D. H. Lawrence**
+> **Frase del dia:** _Be kind, for everyone you meet is fighting a harder battle._ - **Plato**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 27/07/2026 11:28 (UTC-3)
+Ultima actualizacion: 28/07/2026 11:01 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
