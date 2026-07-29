@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Be kind, for everyone you meet is fighting a harder battle._ - **Plato**
+> **Frase del dia:** _If you let your head get too big, it'll break your neck._ - **Elvis Presley**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 28/07/2026 11:01 (UTC-3)
+Ultima actualizacion: 29/07/2026 11:04 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
