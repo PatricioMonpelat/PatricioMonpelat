@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _If you let your head get too big, it'll break your neck._ - **Elvis Presley**
+> **Frase del dia:** _It isn't that they can't see the solution. It is that they can't see the problem._ - **Gilbert Chesterton**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 29/07/2026 11:04 (UTC-3)
+Ultima actualizacion: 30/07/2026 10:53 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
