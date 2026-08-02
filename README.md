@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Expect the best of yourself, and then do what is necessary to make it a reality._ - **Ralph Marston**
+> **Frase del dia:** _Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present._ - **Joan Rivers**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 01/08/2026 10:14 (UTC-3)
+Ultima actualizacion: 02/08/2026 10:15 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
