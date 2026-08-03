@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present._ - **Joan Rivers**
+> **Frase del dia:** _It all depends on what you choose to believe._ - **Spencer Johnson**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 02/08/2026 10:15 (UTC-3)
+Ultima actualizacion: 03/08/2026 11:33 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
