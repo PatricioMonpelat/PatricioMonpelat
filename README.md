@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Talk sense to a fool and he calls you foolish._ - **Euripides**
+> **Frase del dia:** _Ability is a poor man's wealth._ - **John Wooden**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 06/08/2026 11:01 (UTC-3)
+Ultima actualizacion: 07/08/2026 09:57 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
