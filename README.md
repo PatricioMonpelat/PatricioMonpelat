@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Motivation is what gets you started. Habit is what keeps you going._ - **Jim Rohn**
+> **Frase del dia:** _Your happiness is what truly matters most. Do what you have to do in order to be happy._ - **Brian Tracy**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 16/08/2026 09:33 (UTC-3)
+Ultima actualizacion: 17/08/2026 09:38 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
