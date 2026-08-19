@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _No one can compete with you on being you. Most of life is a search for who and what needs you the most._ - **Naval Ravikant**
+> **Frase del dia:** _Why change? Everyone has his own style. When you have found it, you should stick to it._ - **Audrey Hepburn**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 18/08/2026 09:39 (UTC-3)
+Ultima actualizacion: 19/08/2026 09:40 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
