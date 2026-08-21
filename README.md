@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _No matter how tall the mountain is, it cannot block the sun._ - **Chinese Proverb**
+> **Frase del dia:** _Listen to the secret sound, the real sound, which is inside you._ - **Kabir**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 20/08/2026 09:42 (UTC-3)
+Ultima actualizacion: 21/08/2026 09:40 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
