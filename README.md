@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Listen to the secret sound, the real sound, which is inside you._ - **Kabir**
+> **Frase del dia:** _Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more._ - **Nikola Tesla**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 21/08/2026 09:40 (UTC-3)
+Ultima actualizacion: 22/08/2026 09:33 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
