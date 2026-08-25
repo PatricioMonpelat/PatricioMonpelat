@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The quicker you let go of old cheese, the sooner you find new cheese._ - **Spencer Johnson**
+> **Frase del dia:** _Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience._ - **Denis Waitley**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 24/08/2026 09:43 (UTC-3)
+Ultima actualizacion: 25/08/2026 09:41 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
