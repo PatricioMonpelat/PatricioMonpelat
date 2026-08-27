@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists._ - **Charles Dickens**
+> **Frase del dia:** _Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us._ - **Richard Bach**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 26/08/2026 09:45 (UTC-3)
+Ultima actualizacion: 27/08/2026 18:45 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
