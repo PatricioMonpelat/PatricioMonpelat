@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us._ - **Richard Bach**
+> **Frase del dia:** _Whatever you decide to do, make sure it makes you happy._ - **Paulo Coelho**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 27/08/2026 18:45 (UTC-3)
+Ultima actualizacion: 28/08/2026 18:42 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
