@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Whatever you decide to do, make sure it makes you happy._ - **Paulo Coelho**
+> **Frase del dia:** _Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment._ - **Celestine Chua**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 28/08/2026 18:42 (UTC-3)
+Ultima actualizacion: 29/08/2026 13:11 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
