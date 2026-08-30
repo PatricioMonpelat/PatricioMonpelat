@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment._ - **Celestine Chua**
+> **Frase del dia:** _Keep your eyes on the goal, and just keep taking the next step towards completing it._ - **John Carmack**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 29/08/2026 13:11 (UTC-3)
+Ultima actualizacion: 30/08/2026 13:01 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
