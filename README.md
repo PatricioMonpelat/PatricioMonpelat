@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Stop wasting time defending your problems and work on addressing them instead._ - **Celestine Chua**
+> **Frase del dia:** _Force has no place where there is need of skill._ - **Herodotus**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 01/09/2026 13:02 (UTC-3)
+Ultima actualizacion: 02/09/2026 12:57 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
