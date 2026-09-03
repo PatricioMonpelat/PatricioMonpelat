@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Force has no place where there is need of skill._ - **Herodotus**
+> **Frase del dia:** _If you don't find the time, if you don't do the work, you don't get the results._ - **Arnold Schwarzenegger**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 02/09/2026 12:57 (UTC-3)
+Ultima actualizacion: 03/09/2026 12:46 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
