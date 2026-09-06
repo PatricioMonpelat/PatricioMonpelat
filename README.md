@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _However difficult life may seem, there is always something you can do and succeed at._ - **Stephen Hawking**
+> **Frase del dia:** _A man with outward courage dares to die: a man with inner courage dares to live._ - **Lao Tzu**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 05/09/2026 11:35 (UTC-3)
+Ultima actualizacion: 06/09/2026 11:55 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
