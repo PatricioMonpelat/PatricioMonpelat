@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The greatest treasures are those invisible to the eye but found by the heart._ - **Judy Garland**
+> **Frase del dia:** _High thoughts must have high language._ - **Aristophanes**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 07/09/2026 14:14 (UTC-3)
+Ultima actualizacion: 08/09/2026 12:58 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
