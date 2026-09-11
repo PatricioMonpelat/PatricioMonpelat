@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Simple words, repeated daily, can change your life._ - **Maxime Lagace**
+> **Frase del dia:** _It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose._ - **Ming-Dao Deng**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 10/09/2026 12:49 (UTC-3)
+Ultima actualizacion: 11/09/2026 12:51 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
