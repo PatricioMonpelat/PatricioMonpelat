@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Everyday is a second chance._ - **Unknown**
+> **Frase del dia:** _If you spend too much time thinking about a thing, you'll never get it done._ - **Bruce Lee**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 13/09/2026 12:36 (UTC-3)
+Ultima actualizacion: 14/09/2026 14:41 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
