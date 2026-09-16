@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Knowing yourself is the beginning of all wisdom._ - **Aristotle**
+> **Frase del dia:** _Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new._ - **Brian Tracy**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 15/09/2026 13:14 (UTC-3)
+Ultima actualizacion: 16/09/2026 13:07 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
