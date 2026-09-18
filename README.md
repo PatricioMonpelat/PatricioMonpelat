@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _When things go wrong, don't go with them._ - **Elvis Presley**
+> **Frase del dia:** _Till it has loved, no man or woman can become itself._ - **Emily Dickinson**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 17/09/2026 13:14 (UTC-3)
+Ultima actualizacion: 18/09/2026 12:49 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
