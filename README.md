@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The smallest act of kindness is worth more than the greatest intention._ - **Kahlil Gibran**
+> **Frase del dia:** _Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself._ - **Samuel Butler**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 21/09/2026 14:51 (UTC-3)
+Ultima actualizacion: 22/09/2026 13:16 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
