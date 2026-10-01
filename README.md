@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _No se pudo obtener la frase hoy._
+> **Frase del dia:** _When you stop questioning, you stop learning._ - **Lolly Daskal**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 30/09/2026 14:36 (UTC-3)
+Ultima actualizacion: 01/10/2026 15:00 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
