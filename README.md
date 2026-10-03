@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear._ - **Nelson Mandela**
+> **Frase del dia:** _We are born from a quiet sleep, and we die to a calm awakening_ - **Zhuangzi**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 02/10/2026 14:27 (UTC-3)
+Ultima actualizacion: 03/10/2026 12:42 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
