@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _We are born from a quiet sleep, and we die to a calm awakening_ - **Zhuangzi**
+> **Frase del dia:** _Would you rather learn to deal with the truth now than be forced to do so later on?_ - **Celestine Chua**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 03/10/2026 12:42 (UTC-3)
+Ultima actualizacion: 04/10/2026 13:25 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
