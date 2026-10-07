@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _A gentleman is one who puts more into the world than he takes out._ - **George Bernard Shaw**
+> **Frase del dia:** _Be happy now, without reason - or you never will be at all._ - **Dan Millman**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 06/10/2026 14:55 (UTC-3)
+Ultima actualizacion: 07/10/2026 15:25 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
