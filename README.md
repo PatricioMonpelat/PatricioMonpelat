@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Success is not how high you have climbed, but how you make a positive difference to the world._ - **Roy T. Bennett**
+> **Frase del dia:** _The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool._ - **Ray Bradbury**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 08/10/2026 15:24 (UTC-3)
+Ultima actualizacion: 09/10/2026 14:57 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
