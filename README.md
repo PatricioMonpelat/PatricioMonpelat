@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool._ - **Ray Bradbury**
+> **Frase del dia:** _Ability is a poor man's wealth._ - **John Wooden**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 09/10/2026 14:57 (UTC-3)
+Ultima actualizacion: 10/10/2026 13:57 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
