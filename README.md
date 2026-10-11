@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Ability is a poor man's wealth._ - **John Wooden**
+> **Frase del dia:** _You only live once, but if you do it right, once is enough._ - **Mae West**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 10/10/2026 13:57 (UTC-3)
+Ultima actualizacion: 11/10/2026 14:18 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
