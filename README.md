@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You only live once, but if you do it right, once is enough._ - **Mae West**
+> **Frase del dia:** _Those who know, do. Those that understand, teach._ - **Aristotle**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 11/10/2026 14:18 (UTC-3)
+Ultima actualizacion: 12/10/2026 17:53 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
