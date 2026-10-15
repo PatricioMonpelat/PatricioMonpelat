@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Genius is one percent inspiration and ninety-nine percent perspiration._ - **Thomas Edison**
+> **Frase del dia:** _Everything eaten is killed. Every meal is a sacrifice._ - **Adi Da Samraj**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 14/10/2026 13:31 (UTC-3)
+Ultima actualizacion: 15/10/2026 13:18 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
