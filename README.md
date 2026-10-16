@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Everything eaten is killed. Every meal is a sacrifice._ - **Adi Da Samraj**
+> **Frase del dia:** _As we first succeed, we will find ourselves in new situations, facing new problems._ - **Ryan Holiday**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 15/10/2026 13:18 (UTC-3)
+Ultima actualizacion: 16/10/2026 13:04 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
