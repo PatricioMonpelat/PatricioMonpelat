@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _As we first succeed, we will find ourselves in new situations, facing new problems._ - **Ryan Holiday**
+> **Frase del dia:** _You've got to get up every morning with determination if you're going to go to bed with satisfaction._ - **George Lorimer**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 16/10/2026 13:04 (UTC-3)
+Ultima actualizacion: 17/10/2026 11:56 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
