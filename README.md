@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You've got to get up every morning with determination if you're going to go to bed with satisfaction._ - **George Lorimer**
+> **Frase del dia:** _The greater the impact you want to make, the greater your influence needs to be._ - **Lolly Daskal**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 17/10/2026 11:56 (UTC-3)
+Ultima actualizacion: 18/10/2026 12:22 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
