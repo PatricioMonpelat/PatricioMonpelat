@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The greater the impact you want to make, the greater your influence needs to be._ - **Lolly Daskal**
+> **Frase del dia:** _The secret of change is to focus all your energy not on fighting the old, but on building the new._ - **Colin R. Davis**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 18/10/2026 12:22 (UTC-3)
+Ultima actualizacion: 19/10/2026 15:19 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
