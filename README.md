@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The secret of change is to focus all your energy not on fighting the old, but on building the new._ - **Colin R. Davis**
+> **Frase del dia:** _Success is about doing the right thing, not about doing everything right._ - **Gary Keller**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 19/10/2026 15:19 (UTC-3)
+Ultima actualizacion: 20/10/2026 13:20 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
