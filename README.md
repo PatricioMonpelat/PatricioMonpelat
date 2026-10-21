@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Success is about doing the right thing, not about doing everything right._ - **Gary Keller**
+> **Frase del dia:** _Each day your life grows a day shorter. Make every move count._ - **Ming-Dao Deng**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 20/10/2026 13:20 (UTC-3)
+Ultima actualizacion: 21/10/2026 13:36 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
