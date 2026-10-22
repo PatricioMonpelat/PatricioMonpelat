@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Each day your life grows a day shorter. Make every move count._ - **Ming-Dao Deng**
+> **Frase del dia:** _The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one._ - **Mark Twain**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 21/10/2026 13:36 (UTC-3)
+Ultima actualizacion: 22/10/2026 13:37 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
