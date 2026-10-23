@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one._ - **Mark Twain**
+> **Frase del dia:** _If someone betrays you once, it's their fault; if they betray you twice, it's your fault._ - **Eleanor Roosevelt**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 22/10/2026 13:37 (UTC-3)
+Ultima actualizacion: 23/10/2026 13:27 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
