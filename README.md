@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _If someone betrays you once, it's their fault; if they betray you twice, it's your fault._ - **Eleanor Roosevelt**
+> **Frase del dia:** _There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world._ - **Henry Ward Beecher**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 23/10/2026 13:27 (UTC-3)
+Ultima actualizacion: 24/10/2026 12:22 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
