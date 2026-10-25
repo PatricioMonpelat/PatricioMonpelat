@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world._ - **Henry Ward Beecher**
+> **Frase del dia:** _The wiser you get, the less you care to look like a fool._ - **Maxime Lagace**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 24/10/2026 12:22 (UTC-3)
+Ultima actualizacion: 25/10/2026 12:32 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
