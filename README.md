@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Still your waters._ - **Josh Waitzkin**
+> **Frase del dia:** _What we dwell on is who we become._ - **Oprah Winfrey**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 27/10/2026 14:27 (UTC-3)
+Ultima actualizacion: 28/10/2026 14:53 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
