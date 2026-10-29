@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _What we dwell on is who we become._ - **Oprah Winfrey**
+> **Frase del dia:** _The more reasons you have for achieving your goal, the more determined you will become._ - **Brian Tracy**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 28/10/2026 14:53 (UTC-3)
+Ultima actualizacion: 29/10/2026 15:00 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
