@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _When you believe in a thing, believe in it all the way, implicitly and unquestionable._ - **Walt Disney**
+> **Frase del dia:** _When something comes from within, when it is a part of you, you have no choice but to live it, to express it._ - **Kamal Ravikant**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 31/10/2026 13:48 (UTC-3)
+Ultima actualizacion: 01/11/2026 14:38 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
