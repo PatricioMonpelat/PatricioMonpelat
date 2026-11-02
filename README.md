@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _When something comes from within, when it is a part of you, you have no choice but to live it, to express it._ - **Kamal Ravikant**
+> **Frase del dia:** _If you want others to be happy, practice compassion. If you want to be happy, practice compassion._ - **Dalai Lama**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 01/11/2026 14:38 (UTC-3)
+Ultima actualizacion: 02/11/2026 18:23 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
