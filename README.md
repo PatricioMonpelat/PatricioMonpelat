@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _When the time is gone, you can never get it back._ - **Stephen King**
+> **Frase del dia:** _What the eye doesn't see and the mind doesn't know, doesn't exist._ - **D. H. Lawrence**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 03/11/2026 16:01 (UTC-3)
+Ultima actualizacion: 04/11/2026 16:20 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
