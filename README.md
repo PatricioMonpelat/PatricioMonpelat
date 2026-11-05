@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _What the eye doesn't see and the mind doesn't know, doesn't exist._ - **D. H. Lawrence**
+> **Frase del dia:** _Debt is the slavery of the free._ - **Publilius Syrus**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 04/11/2026 16:20 (UTC-3)
+Ultima actualizacion: 05/11/2026 16:28 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
