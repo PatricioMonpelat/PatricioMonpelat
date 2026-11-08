@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _No se pudo obtener la frase hoy._
+> **Frase del dia:** _People spend too much time doing and not enough time thinking about what they should be doing._ - **Naval Ravikant**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 07/11/2026 14:25 (UTC-3)
+Ultima actualizacion: 08/11/2026 14:35 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
