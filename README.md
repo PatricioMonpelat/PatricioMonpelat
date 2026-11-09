@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _People spend too much time doing and not enough time thinking about what they should be doing._ - **Naval Ravikant**
+> **Frase del dia:** _It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it._ - **Dale Carnegie**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 08/11/2026 14:35 (UTC-3)
+Ultima actualizacion: 09/11/2026 18:55 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
