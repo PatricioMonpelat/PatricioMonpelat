@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it._ - **Dale Carnegie**
+> **Frase del dia:** _Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward._ - **Colin Powell**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 09/11/2026 18:55 (UTC-3)
+Ultima actualizacion: 10/11/2026 16:17 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
