@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _In the practice of tolerance, one's enemy is the best teacher._ - **Dalai Lama**
+> **Frase del dia:** _An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question._ - **John Tukey**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 12/11/2026 16:31 (UTC-3)
+Ultima actualizacion: 13/11/2026 16:11 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
