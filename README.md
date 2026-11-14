@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question._ - **John Tukey**
+> **Frase del dia:** _There is nothing more frightful than ignorance in action._ - **Johann Wolfgang von Goethe**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 13/11/2026 16:11 (UTC-3)
+Ultima actualizacion: 14/11/2026 14:39 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
