@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _There is nothing more frightful than ignorance in action._ - **Johann Wolfgang von Goethe**
+> **Frase del dia:** _The weak can never forgive. Forgiveness is the attribute of the strong._ - **Mahatma Gandhi**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 14/11/2026 14:39 (UTC-3)
+Ultima actualizacion: 15/11/2026 15:28 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
