@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _I dream my painting and I paint my dream._ - **Vincent van Gogh**
+> **Frase del dia:** _If you can't argue both sides, you can't argue._ - **Jack Butcher**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 16/11/2026 18:38 (UTC-3)
+Ultima actualizacion: 17/11/2026 17:27 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
