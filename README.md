@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _If you can't argue both sides, you can't argue._ - **Jack Butcher**
+> **Frase del dia:** _Silence is a source of great strength._ - **Lao Tzu**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 17/11/2026 17:27 (UTC-3)
+Ultima actualizacion: 18/11/2026 16:58 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
