@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _You are never too old to become younger._ - **Mae West**
+> **Frase del dia:** _Never waste a minute of your precious life thinking about people you don't like._ - **Celestine Chua**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 19/11/2026 16:56 (UTC-3)
+Ultima actualizacion: 20/11/2026 16:36 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
