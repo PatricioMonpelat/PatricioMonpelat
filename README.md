@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Never waste a minute of your precious life thinking about people you don't like._ - **Celestine Chua**
+> **Frase del dia:** _To avoid criticism, do nothing, say nothing, and be nothing._ - **Elbert Hubbard**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 20/11/2026 16:36 (UTC-3)
+Ultima actualizacion: 21/11/2026 15:40 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
