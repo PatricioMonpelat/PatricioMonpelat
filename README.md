@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _To avoid criticism, do nothing, say nothing, and be nothing._ - **Elbert Hubbard**
+> **Frase del dia:** _Peace is not the absence of conflict, but the ability to cope with it._ - **Unknown**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 21/11/2026 15:40 (UTC-3)
+Ultima actualizacion: 22/11/2026 16:01 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
