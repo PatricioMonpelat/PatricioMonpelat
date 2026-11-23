@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Peace is not the absence of conflict, but the ability to cope with it._ - **Unknown**
+> **Frase del dia:** _Have a vision. Be demanding._ - **Colin Powell**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 22/11/2026 16:01 (UTC-3)
+Ultima actualizacion: 23/11/2026 20:22 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
