@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _Have a vision. Be demanding._ - **Colin Powell**
+> **Frase del dia:** _The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way._ - **Robert Kiyosaki**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 23/11/2026 20:22 (UTC-3)
+Ultima actualizacion: 24/11/2026 18:54 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
