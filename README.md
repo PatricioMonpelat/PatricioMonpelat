@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way._ - **Robert Kiyosaki**
+> **Frase del dia:** _We have to live life with a sense of urgency so not a minute is wasted._ - **Les Brown**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 24/11/2026 18:54 (UTC-3)
+Ultima actualizacion: 25/11/2026 18:01 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
