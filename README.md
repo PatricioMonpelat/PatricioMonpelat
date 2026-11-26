@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 
 <!-- QUOTE_START -->
-> **Frase del dia:** _We have to live life with a sense of urgency so not a minute is wasted._ - **Les Brown**
+> **Frase del dia:** _Keep your eyes on the stars, but remember to keep your feet on the ground._ - **Theodore Roosevelt**
 <!-- QUOTE_END -->
 >
 > <!-- LAST_UPDATED_START -->
-Ultima actualizacion: 25/11/2026 18:01 (UTC-3)
+Ultima actualizacion: 26/11/2026 17:55 (UTC-3)
 <!-- LAST_UPDATED_END -->
 
 
